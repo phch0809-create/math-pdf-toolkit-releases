@@ -11,7 +11,7 @@
 - Existing owner-held [Google Drive copy](https://drive.google.com/file/d/1pNe1Bcyb9ygHDIS0l7ggtkEewzAa9Cz7/view) — **access is not currently verified for anonymous users**; testers may need explicit permission. The goal is a GitHub Pre-release asset available to invited beta testers.
 - The code ZIPs labeled v0.9.x Developer Beta are **not** deployable Windows EXEs.
 
-**Publication state:** source files, SHA and release notes are prepared. A GitHub *Pre-release asset* has not been uploaded/published yet. Do not claim the GitHub Release exists until a release URL and download are independently verified.
+**Publication state:** GitHub **Pre-release is public and its asset digest, size and filename match the original local ZIP**. This does NOT establish that the program works on all Windows PCs.
 
 ## Install and use
 
@@ -43,6 +43,6 @@ Include:
 
 ## Beta release publication checklist
 
-Maintainer only: visit [New release](https://github.com/phch0809-create/math-pdf-toolkit-releases/releases/new), set tag `v0.8.4-beta.1`, select **This is a pre-release**, attach the exact ZIP named above, use this note for release text, publish and **verify the public download and SHA-256**. Do **not** publish `releases/latest.json` for this beta; stable automatic update is still off.
+Maintainer: the [v0.8.4-beta.1 GitHub release](https://github.com/phch0809-create/math-pdf-toolkit-releases/releases/tag/v0.8.4-beta.1) and asset are published and digest-checked. The [opt-in beta feed](releases/beta.json) points to this archive. **Do not publish `releases/latest.json`** for this beta; stable automatic update is still off. The v0.8.4 package lacks an auto-updater engine, so users must install a future v0.9.2+ updater-enabled client once before any automatic version checking can work.
 
 Future stable releases must pass [RELEASE_PROCESS.md](RELEASE_PROCESS.md).
