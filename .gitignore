@@ -1,0 +1,27 @@
+# Keep packages under Releases assets only, not in the git tree
+*.exe
+*.msi
+*.msix
+*.zip
+*.7z
+*.pfx
+*.p12
+*.pem
+*.key
+*.env
+.env.*
+*.log
+*.sqlite
+*.db
+*.pdf
+*.pdfx
+*.png
+*.jpg
+*.jpeg
+*.webp
+__pycache__/
+*.pyc
+dist/
+build/
+_internal/
+node_modules/
