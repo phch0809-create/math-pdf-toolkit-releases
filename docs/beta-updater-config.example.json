@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "manifest_url": "https://raw.githubusercontent.com/phch0809-create/math-pdf-toolkit-releases/main/releases/beta.json",
+  "allowed_download_hosts": [
+    "raw.githubusercontent.com",
+    "github.com",
+    "release-assets.githubusercontent.com",
+    "objects.githubusercontent.com"
+  ]
+}
