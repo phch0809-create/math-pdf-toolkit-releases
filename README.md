@@ -2,7 +2,9 @@
 
 **Public download and update-metadata repository for Math PDF Toolkit.**
 
-> **Status: PRE-RELEASE SETUP — no verified general-public release is available yet.**
+> **Status: FRIENDS BETA CANDIDATE READY — general-public release and auto-update are not active.**
+
+**Want to try the early beta?** Read [Friends Preview Beta v0.8.4 — instructions, known issues and verified checksum](BETA_TESTING.md). The Windows ZIP has been shared via Google Drive with invited testers; it has **not** yet been published as a GitHub Release asset. Access to the Drive copy may be restricted.
 
 This repository is a **distribution channel**, not the source-code repository. The existing Friends Preview beta is an invitation-only test package; its initial Windows WebView window has exhibited a startup hang. **Do not treat that beta as a verified public release.**
 
