@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "version": "0.8.4",
+  "notes": "Friends Preview v0.8.4 (beta.1): PDF 압축·병합·분할 체험판입니다. Windows 브라우저 안전 모드 시작을 권장합니다. 이 버전의 업데이트 메뉴는 수동 배포 폴더 링크만 지원하며, 자동 설치 엔진은 포함되지 않습니다.",
+  "download_url": "https://github.com/phch0809-create/math-pdf-toolkit-releases/releases/download/v0.8.4-beta.1/MathPDFToolkit_Friends_Preview_v0.8.4_UpdateMenu_win64.1.zip",
+  "size_bytes": 39782062,
+  "sha256": "6800d363dbe00a29f34dcf1c0c2bd2a534dad511c991c311bcc8212cb9a7b772"
+}
