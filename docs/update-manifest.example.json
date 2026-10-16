@@ -1,0 +1,9 @@
+{
+  "_example_only": "NOT A LIVE UPDATE. Remove this field when generating an approved releases/latest.json from an actual verified ZIP.",
+  "schema": 1,
+  "version": "0.9.3",
+  "notes": "Example only; no published update is available",
+  "download_url": "https://github.com/phch0809-create/math-pdf-toolkit-releases/releases/download/v0.9.3/REPLACE_WITH_VERIFIED_FILE.zip",
+  "size_bytes": 0,
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+}
